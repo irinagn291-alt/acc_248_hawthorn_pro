@@ -1,4 +1,4 @@
-<!-- gf-brief source=9006edfed27d6c7a7c18bbf014d04260ec550e46547e3dcd3c47de006a66954c written=2026-09-26T01:48:45+03:00 -->
+<!-- gf-brief source=9006edfed27d6c7a7c18bbf014d04260ec550e46547e3dcd3c47de006a66954c written=2026-09-26T01:48:58+03:00 -->
 # Hawthorn
 
 ## What it is
