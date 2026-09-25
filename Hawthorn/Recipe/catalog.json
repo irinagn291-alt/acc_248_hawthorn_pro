@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "bottles": [
+    {"id": "gin", "name": "London Dry Gin"},
+    {"id": "sweet-vermouth", "name": "Sweet Vermouth"},
+    {"id": "campari", "name": "Campari"},
+    {"id": "bourbon", "name": "Bourbon"},
+    {"id": "rye", "name": "Rye Whiskey"},
+    {"id": "dry-vermouth", "name": "Dry Vermouth"},
+    {"id": "orange-bitters", "name": "Orange Bitters"},
+    {"id": "lemon", "name": "Lemon"},
+    {"id": "simple", "name": "Simple Syrup"}
+  ],
+  "recipes": [
+    {
+      "id": "negroni",
+      "name": "Negroni",
+      "method": "Stir gin, sweet vermouth, and Campari. Strain over ice.",
+      "primaryTriple": {"bottleIDs": ["gin", "sweet-vermouth", "campari"]}
+    },
+    {
+      "id": "manhattan",
+      "name": "Manhattan",
+      "method": "Stir rye, sweet vermouth, and orange bitters. Strain.",
+      "primaryTriple": {"bottleIDs": ["rye", "sweet-vermouth", "orange-bitters"]}
+    },
+    {
+      "id": "martini",
+      "name": "Martini",
+      "method": "Stir gin, dry vermouth, and orange bitters. Strain.",
+      "primaryTriple": {"bottleIDs": ["gin", "dry-vermouth", "orange-bitters"]}
+    },
+    {
+      "id": "whiskey-sour",
+      "name": "Whiskey Sour",
+      "method": "Shake bourbon, lemon, and simple syrup.",
+      "primaryTriple": {"bottleIDs": ["bourbon", "lemon", "simple"]}
+    }
+  ]
+}

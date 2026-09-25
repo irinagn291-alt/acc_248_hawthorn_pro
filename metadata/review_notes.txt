@@ -1,0 +1,15 @@
+At cold launch, the system may show the standard notifications permission alert (Allow / Don’t Allow). There is no custom usage-description string. Camera, microphone, photos, and location permissions are not requested.
+
+There is no login or accounts, no in-app purchase, no user-generated content, no account deletion flow, and no App Tracking Transparency prompt.
+
+Hawthorn is a local cocktail matcher for people who keep a small home bar. You stow bottles you own, seat three in a tin, and shake to match a cocktail from a fixed set of recipes. Everything about the bar, tags, pins, and shake history stays on this device.
+
+No credentials or demo account are needed. On a first launch that has not finished the introduction, three full-screen pages appear with Skip at the top right and Next on pages 1–2 or Continue on page 3 (1 of 3, 2 of 3, 3 of 3). After Skip or Continue, the home tin shows Seat three, then shake. If you see The bar is empty, tap Open the bar. In Bar, under Still in the case, tap Stow London Dry Gin, Stow Sweet Vermouth, Stow Campari, and other bottles as needed, then Close. On the tin, tap Tag chips until Tin shows 3 of 3 tagged, then tap Shake. After a hit, use Pin this recipe or Clear the tin. Tap Discover to read match lines for Negroni, Manhattan, Martini, and Whiskey Sour. Tap Favorites for Pinned and Pours by day. Tap Settings for Bar on this device, Replay introduction, Contact Hawthorn, and Reset all data.
+
+Bar, tags, pins, and shake history stay on this device. The on-screen support control is Contact Hawthorn in Settings under Contact.
+
+There is no region lock; counts use the device locale.
+
+No licence or regulated-industry paperwork applies; the app is a personal cocktail matcher with drink recipes only and does not operate in a regulated industry.
+
+The app is a personal log only and gives no recommendations.
